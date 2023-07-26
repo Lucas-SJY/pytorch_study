@@ -9,4 +9,4 @@ def fast_power(a, n):
         return fast_power(a, n / 2) * fast_power(a, n / 2)
 
 
-print(fast_power(2, 10000))
+print(fast_power(2, 1099))
